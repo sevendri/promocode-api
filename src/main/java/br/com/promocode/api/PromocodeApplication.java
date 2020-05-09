@@ -1,13 +1,13 @@
-package br.com.brasilfire.tag;
+package br.com.promocode.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TagApplication {
+public class PromocodeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TagApplication.class, args);
+		SpringApplication.run(PromocodeApplication.class, args);
 	}
 
 }
